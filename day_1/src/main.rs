@@ -1,7 +1,7 @@
 fn p_1() {
     let mut  list_1: Vec<i64> = Vec::new();
     let mut  list_2: Vec<i64> = Vec::new();
-    let x  = std::fs::read_to_string("/Users/mariusihring/Developer/aoc_2024/day_1/src/input").unwrap().lines().for_each(|line| {
+    let x  = std::fs::read_to_string("input").unwrap().lines().for_each(|line| {
         let nums = line.split(' ').collect::<Vec<&str>>();
 
         list_1.push(nums[0].parse::<i64>().unwrap());
@@ -24,7 +24,7 @@ fn p_1() {
 fn p_2() {
     let mut  list_1: Vec<i64> = Vec::new();
     let mut  list_2: Vec<i64> = Vec::new();
-    let x  = std::fs::read_to_string("/Users/mariusihring/Developer/aoc_2024/day_1/src/input").unwrap().lines().for_each(|line| {
+    let x  = std::fs::read_to_string("input").unwrap().lines().for_each(|line| {
         let nums = line.split(' ').collect::<Vec<&str>>();
 
         list_1.push(nums[0].parse::<i64>().unwrap());
