@@ -1,5 +1,6 @@
 [workspace]
-members = ["day_2", "day_3"]
+members = ["day_1", "day_2", "day_3", "day_4", "day_5"]
+resolver = "2"
 
 [workspace.dependencies]
 regex = "1.11.1"
