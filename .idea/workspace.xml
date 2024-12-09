@@ -8,12 +8,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88c4f131-0030-4fa8-8c9b-c2f0556e3f92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day_8/input" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_8/input.test" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/aoc_2024.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aoc_2024.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_9/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/day_9/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_9/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/day_9/src/main.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
