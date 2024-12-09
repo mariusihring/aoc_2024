@@ -37,7 +37,7 @@ fn p_2(input: Lines) {
 }
 
 fn main() {
-    let input = std::fs::read_to_string("input").unwrap();
+    let input = std::fs::read_to_string("pascal").unwrap();
     let input = input.lines();
 
     p_1(input.clone());
